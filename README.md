@@ -1,4 +1,4 @@
 # wajahat-student
 My first Repository 
-<b>
+<br>
 Author - Wajahat Khan
